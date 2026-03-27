@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Del Piero</title>
+    <style>
+        body {
+            background: black;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Del Piero ⚽</h1>
+    <p>Santrafor | Geleceğin yıldızı</p>
+</body>
+</html>
